@@ -1,0 +1,3 @@
+Grzegorz Szymczuch
+Mail: gregorius2514@gmail.com
+Temat pracy:Przeglądarka obiektów w zserializowanej postaci. W części teoretyczne należy omówić mechanizm serializacji zastosowany w danym języku. W części praktycznej należy stworzyć aplikację umożliwiającą wyświetlenie (np. w postaci drzewa) struktury obiektów przechowywanych w zserializowanej postaci w pliku. Program może posiadać opcję podświetlania odpowiedniej części pliku po wybraniu fragmentu drzewa i podświetlania odpowiedniej części drzewa po wybraniu fragmentu pliku. Powinno zostać to wykonane bez użycia deserializacji, tylko na podstawie analizy zawartości pliku. 

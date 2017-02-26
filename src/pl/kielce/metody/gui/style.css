@@ -1,27 +1,27 @@
 .root {
     -fx-background-color:
-            linear-gradient(#7980ab, #4A789C);
+    linear-gradient(#7980ab, #4A789C);
 }
 
 .button {
     /* -fx-background-color: #F4BA70; */
     -fx-background-color:
-        linear-gradient(#f4ed61, #f4a370);
+    linear-gradient(#f4ed61, #f4a370);
 
     -fx-background-radius: 20;
 }
 
 .button:hover {
-     -fx-background-color:
-            linear-gradient(#f47470, #f44551);
+    -fx-background-color:
+    linear-gradient(#f47470, #f44551);
 }
 
 .custom-text-field {
     /* -fx-background-color: #7FCA9F; */
     -fx-background-color:
-                linear-gradient(#7FCA9F, #189a9f);
+    linear-gradient(#7FCA9F, #189a9f);
     -fx-background-radius: 20;
- }
+}
 
 .custom-text-field:focused {
     -fx-background-color: #FCFEFD;
@@ -29,7 +29,7 @@
 
 .custom-combobox {
     -fx-background-color:
-                    linear-gradient(#62C2CC, #628ccc);
+    linear-gradient(#62C2CC, #628ccc);
     -fx-background-radius: 20;
 }
 
@@ -38,13 +38,13 @@
 }
 
 .custom-textArea {
-   -fx-font-size:12;
-   -fx-font-family: "Times New Roman";
-   -fx-background-color: grey;
+    -fx-font-size:12;
+    -fx-font-family: "Times New Roman";
+    -fx-background-color: grey;
 }
 
 .custom-textArea:focused {
-     -fx-font-size:16;
-     -fx-font-weight:bold;
-     -fx-background-color: white;
+    -fx-font-size:16;
+    -fx-font-weight:bold;
+    -fx-background-color: white;
 }
